@@ -1,0 +1,1975 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 4ed72f129f39a0d4493f1db5bd2d6478
+=======
+guid: e419c766f84d0b642865d704453683c5
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+<<<<<<< HEAD
+=======
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+<<<<<<< HEAD
+=======
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: e0401736f83c70b49ad5a55c25a33738
+      internalID: 1705979150
+=======
+      spriteID: 1bd3cb853f476ee45b76748fbf2f66b0
+      internalID: 1011614172
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 4fa51e63395369649abcb8c96a5a7e96
+      internalID: -1100448868
+=======
+      spriteID: 2841301bb3b7dd747b941133778656d8
+      internalID: -245897691
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: fc0be04427e3beb468dcd04f9e72a7a8
+      internalID: -2040270058
+=======
+      spriteID: 6cea9a66dde8bcb4699d2d4a8ea35c93
+      internalID: -444628411
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: a402e631722052040a423b0c46110b5c
+      internalID: 1095000681
+=======
+      spriteID: 354669928e6749b498e98c6d05d216c5
+      internalID: 27550786
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: d3589ad6843e8c44a9ba0b48aa7f5c26
+      internalID: 718907377
+=======
+      spriteID: 910f936451ff166418ad46be9ac7c7e2
+      internalID: -769277964
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: a1f0dab8bbee9704eb7c89a650ecd77d
+      internalID: 406567786
+=======
+      spriteID: 850da529d0abdff4d8a99a5925bf2839
+      internalID: 383388830
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 260ee91def484d64788b3588378fca81
+      internalID: 1568198372
+=======
+      spriteID: b565c28152d8f784396a1f069a87e713
+      internalID: 1989852100
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 73990eb6f88c1dd4d9ea1c9319bea552
+      internalID: -1752021436
+=======
+      spriteID: 24ac921ae0b38f046acad06524845bfd
+      internalID: 1828664
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: f611c3ffec5296b43ab0f2214ad3cb3e
+      internalID: -2109711226
+=======
+      spriteID: 09f4fe498f9f19248b621a19d17c08da
+      internalID: 192711789
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 63280247f67aec24a922666acdaf9f24
+      internalID: -1177264249
+=======
+      spriteID: f480a779d23a12d42aee45f51c57285e
+      internalID: -552656347
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 95a48d97190d01e4885e1600dc5d1b59
+      internalID: -1437506735
+=======
+      spriteID: c6161255f93561641bcd8de5b84f3500
+      internalID: 302178741
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 1147582dc9f63b84399a43e241258d07
+      internalID: 409491282
+=======
+      spriteID: 887cba8b3bc6a94498507e966aa2be1d
+      internalID: 1285083448
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: b488cec059e25784d9dbac9ebbe7b67d
+      internalID: 192672888
+=======
+      spriteID: 5c1bcdd62d393f94c8d6d5621b7cdc44
+      internalID: -173016882
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 4d0d4ee7a659e304b84c377e8fc0c6e8
+      internalID: -338258239
+=======
+      spriteID: cf8ad8d69c81f0345adb9dbc22c7e1a4
+      internalID: -2091569354
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: ac4a6dac6ddf39e47be1f68f5ce0dd3b
+      internalID: 997970130
+=======
+      spriteID: 2a012e28b33d37f429ca76e0e328ff35
+      internalID: 882819885
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: bb51b589048cf9a4489b29f00dbdb12d
+      internalID: -1575749349
+=======
+      spriteID: 5147766612a39e442bbe12ac24c9d028
+      internalID: -855604456
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 5808c635e98573c469909de9848bcc16
+      internalID: 1808099657
+=======
+      spriteID: eec234ced555e9d4eba0506537161b98
+      internalID: 569483982
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: fb287afe1ac6871458498c956458d76d
+      internalID: -1667945499
+=======
+      spriteID: 84d5f892da90b4046a959726a758e885
+      internalID: -1667846719
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: bba9e841984881746ba336fdd254b580
+      internalID: 1055353733
+=======
+      spriteID: 82cd775c43daa9144bc0d8b704c7a1dd
+      internalID: 1727069464
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 6409821bd5b0e7949a64ec6063bc48f0
+      internalID: 1052504624
+=======
+      spriteID: adec7eb7012d6504f9e204a5ba3639a8
+      internalID: 581955306
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: cc99f158e3bab1e438d8c50bc56f2620
+      internalID: -147412487
+=======
+      spriteID: 9cb499576b891ae4a9719800f0c37361
+      internalID: 1771105174
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 6e621ce192f966242b1502d2452d39bb
+      internalID: 1546193409
+=======
+      spriteID: ac8b4efca48ba3340b0fd5ae0a84ed50
+      internalID: 1768858456
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 7f219da7d9442d24fbe7ab634e085a29
+      internalID: 79214281
+=======
+      spriteID: 7f4227ca6d72c8047a619eff13442019
+      internalID: -937218377
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 7b6d687bfe215db4099c4f339c9414de
+      internalID: 441107901
+=======
+      spriteID: 3044a1386129b824aa073f4ad86b8e61
+      internalID: -666978330
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 9bfcc6150d739db49b8a48d926d62a9b
+      internalID: 183936906
+=======
+      spriteID: db3755b6e5bef8e4b9aa22532e6ad3fa
+      internalID: 1238596450
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: da6c8a29e6dc4de43b5ba89a00563305
+      internalID: 235095336
+=======
+      spriteID: ab86c3aaffa82534a95ac26db5deaaa9
+      internalID: 2096881996
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 848cd2aa10dd98b43b2cd43642986590
+      internalID: 1598687818
+=======
+      spriteID: e8bd5d598d7ed5a4d85b617fcf3cb7ff
+      internalID: -1013285981
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 6c49805b3bc92314caac4059a7a9a372
+      internalID: 1652819147
+=======
+      spriteID: 5f947b76cfb2d6f48bb79b10634861a6
+      internalID: -1461400341
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 41aab5083a702014e89916bf96ff9fd9
+      internalID: 592696600
+=======
+      spriteID: 783df2b6b29186e408a0224f67f3b708
+      internalID: -1931774714
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 027692d69924ffc43a92a4def91a6f4d
+      internalID: -1816023151
+=======
+      spriteID: da0592297d9a6d04ba67b01915739a59
+      internalID: 825797400
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 72b62b57b3ec06f409e0da9b66ae0d3a
+      internalID: 1028501238
+=======
+      spriteID: afbaf9a9a19c7d04cb414fab50036724
+      internalID: -1563915359
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 45a6a27551dbb6e4da5552030b30e262
+      internalID: 451262144
+=======
+      spriteID: a8c9860a2527e3447a4d4421d1b14e92
+      internalID: -1269864234
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: b1dab1d3f88a27c4bb5b8c16f2b2069f
+      internalID: -623926528
+=======
+      spriteID: 7643750129b64874497bc6b4176a4b95
+      internalID: -1433233412
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 039ea9c8eda0be943a84efe785f0c764
+      internalID: -2077746135
+=======
+      spriteID: ae5ffaf6a519bec40a5a5812a038ae69
+      internalID: -2029276782
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 32adf2ec4869cc44bb2a8e0bd99974b3
+      internalID: 2142022321
+=======
+      spriteID: bff6464285646584e8ff1c39cb18fa1b
+      internalID: 805541261
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 66d318894b21d12489cda84c7ecb3b1b
+      internalID: 1133434149
+=======
+      spriteID: 51f272ebd3d329a45a43836462d6d2f4
+      internalID: 1867266019
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 3cac909b89bee42419297f617374a310
+      internalID: 1827287373
+=======
+      spriteID: 64dbb3ccfdb81e64098119ce4db84168
+      internalID: 1862551805
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 631f78b7238d56d41b041af5642c4397
+      internalID: 438508303
+=======
+      spriteID: d2bd733cb6b69484cad3aba802f3868e
+      internalID: -1026871106
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: c7b0f6187b9297947bb998eec92f93e2
+      internalID: -710236044
+=======
+      spriteID: 337206454f1ab394f8056010ab7d3d5f
+      internalID: -1579732398
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 423aef94a978d4945bf5b03d269cf95a
+      internalID: -34273147
+=======
+      spriteID: f13945e43d5a9ee44af2e675921781aa
+      internalID: -150215107
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: fba4c4498d03c544cb8cde84873ce15f
+      internalID: -1400355249
+=======
+      spriteID: 46510fdf829242048830034ab406edfd
+      internalID: -54745601
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 8d54237f0eefd2d41bbbc71c09cc2861
+      internalID: 76699109
+=======
+      spriteID: fec0e484cd1120f46af9f8d251b71ee7
+      internalID: -1711648572
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: d45c6761f946aac4589b5ba42193007c
+      internalID: -11457491
+=======
+      spriteID: b636cf4959c2efb48acc7f4bee53c7d9
+      internalID: -1823531460
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: b003c0dc6bea69e4d9d491751fe0520f
+      internalID: -1520920343
+=======
+      spriteID: 8328613d17f5cd34ab43f861974563e8
+      internalID: -693691366
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 58a419a8649a3d247afe1222a08bda3b
+      internalID: -1759446970
+=======
+      spriteID: a36cf68adbbc28247ab36e513b58c62c
+      internalID: 1321592167
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 3041ca98293b8a24b89244cd7ff4c750
+      internalID: -1440188539
+=======
+      spriteID: 48f3f6d7e13b9d44cb55d84b239127f9
+      internalID: 2081813940
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: bb211536e322e5b4ab2575eefa52652e
+      internalID: -1403204444
+=======
+      spriteID: 8064b53666642c74488c4e9316840281
+      internalID: 1665829611
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 90a0f7dd10ba9384487b6085c948006c
+      internalID: 858326268
+=======
+      spriteID: 701df6da07d840c42b9d35987a5fd259
+      internalID: 66078942
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: fbc461daca4e436448553593bceb6e35
+      internalID: -1217366944
+=======
+      spriteID: 52fecf90f2070db4db16b8ace75679c5
+      internalID: -424599503
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 6168143408447ee40b99ef89b5c4733f
+      internalID: -26487195
+=======
+      spriteID: 9dd6d75a820bdbc4b8cf49202bede8a9
+      internalID: -811173016
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 60ed047fff487e241b1885789fcfc0d7
+      internalID: 1654186149
+=======
+      spriteID: 09819bd7d96789a4daad095dfda1f647
+      internalID: -631569493
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 9c96d040733b77948a788401c6cc0c04
+      internalID: -1398161178
+=======
+      spriteID: bf2004f2622780045b6d723465c5867e
+      internalID: -1857024282
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: c8ad434931e0f0b4194a783d998911bb
+      internalID: 287811891
+=======
+      spriteID: 5835aa34d7e1bf849bcf6aba8f3e5012
+      internalID: 1197456201
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: c33e117d571d02c499fce5c6ec1ed449
+      internalID: 1528088002
+=======
+      spriteID: c2733368264a2a047a559d3544f6d8cd
+      internalID: -1735636951
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: ec51acf7f72033647aff3a24c271c21f
+      internalID: 130166790
+=======
+      spriteID: 65c124e7e9db3e047ac34b14500ce217
+      internalID: 681100478
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 30ac515ed148d3a4eab7cdd643461835
+      internalID: -254015976
+=======
+      spriteID: 8c0874500a577904688d1a09addb07d7
+      internalID: 1251617356
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 1b26809019140194e8cb4bbe248e4538
+      internalID: -1303971192
+=======
+      spriteID: abf33f1b65cbff744b5f0c1818938358
+      internalID: 1048170081
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 9b048bc1255e49a48b4c17d546990ebd
+      internalID: 269115699
+=======
+      spriteID: 72f28174e7c134142a50e46408818fde
+      internalID: -1096691705
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 13cdd4e8e42c89b45af1139746f0a315
+      internalID: 2016730606
+=======
+      spriteID: 7cea876ee7cd56546a875aff998daf4c
+      internalID: 1804201666
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 1817b409a5c476f4db42df03f42a232b
+      internalID: 713669137
+=======
+      spriteID: 8d382a03ec4137642af2b4dd7fc361b7
+      internalID: 1129902747
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 26ff13e8698f4d8428aa483d51857054
+      internalID: -1388973837
+=======
+      spriteID: dc2466a30ba8cb74790958037857c554
+      internalID: 90516717
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 7c01867d7d3f08e47a30419d5e91a13f
+      internalID: -1555104678
+=======
+      spriteID: dd91016991e10b740b3bdb25b2c0f2bb
+      internalID: -1055494789
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: b281ae8c364cacb49bb3022cf5f8070e
+      internalID: -592353410
+=======
+      spriteID: 4e72157c29501b94b837fbfd3a839ca7
+      internalID: 1572909602
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboy_icons_sheet1_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 7b4bdf560907eb64cae748d33f2c696f
+      internalID: -221550236
+=======
+      spriteID: f7c0007a7e142fe428ac2010c31a1295
+      internalID: 564870386
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+<<<<<<< HEAD
+    spriteID: 74ada0d88503ee142acc5437c920a2aa
+=======
+    spriteID: 23f389c861ac81b45a76f97b20a7ad9e
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+<<<<<<< HEAD
+      cowboy_icons_sheet1_0: 1705979150
+      cowboy_icons_sheet1_1: -1100448868
+      cowboy_icons_sheet1_10: -1437506735
+      cowboy_icons_sheet1_11: 409491282
+      cowboy_icons_sheet1_12: 192672888
+      cowboy_icons_sheet1_13: -338258239
+      cowboy_icons_sheet1_14: 997970130
+      cowboy_icons_sheet1_15: -1575749349
+      cowboy_icons_sheet1_16: 1808099657
+      cowboy_icons_sheet1_17: -1667945499
+      cowboy_icons_sheet1_18: 1055353733
+      cowboy_icons_sheet1_19: 1052504624
+      cowboy_icons_sheet1_2: -2040270058
+      cowboy_icons_sheet1_20: -147412487
+      cowboy_icons_sheet1_21: 1546193409
+      cowboy_icons_sheet1_22: 79214281
+      cowboy_icons_sheet1_23: 441107901
+      cowboy_icons_sheet1_24: 183936906
+      cowboy_icons_sheet1_25: 235095336
+      cowboy_icons_sheet1_26: 1598687818
+      cowboy_icons_sheet1_27: 1652819147
+      cowboy_icons_sheet1_28: 592696600
+      cowboy_icons_sheet1_29: -1816023151
+      cowboy_icons_sheet1_3: 1095000681
+      cowboy_icons_sheet1_30: 1028501238
+      cowboy_icons_sheet1_31: 451262144
+      cowboy_icons_sheet1_32: -623926528
+      cowboy_icons_sheet1_33: -2077746135
+      cowboy_icons_sheet1_34: 2142022321
+      cowboy_icons_sheet1_35: 1133434149
+      cowboy_icons_sheet1_36: 1827287373
+      cowboy_icons_sheet1_37: 438508303
+      cowboy_icons_sheet1_38: -710236044
+      cowboy_icons_sheet1_39: -34273147
+      cowboy_icons_sheet1_4: 718907377
+      cowboy_icons_sheet1_40: -1400355249
+      cowboy_icons_sheet1_41: 76699109
+      cowboy_icons_sheet1_42: -11457491
+      cowboy_icons_sheet1_43: -1520920343
+      cowboy_icons_sheet1_44: -1759446970
+      cowboy_icons_sheet1_45: -1440188539
+      cowboy_icons_sheet1_46: -1403204444
+      cowboy_icons_sheet1_47: 858326268
+      cowboy_icons_sheet1_48: -1217366944
+      cowboy_icons_sheet1_49: -26487195
+      cowboy_icons_sheet1_5: 406567786
+      cowboy_icons_sheet1_50: 1654186149
+      cowboy_icons_sheet1_51: -1398161178
+      cowboy_icons_sheet1_52: 287811891
+      cowboy_icons_sheet1_53: 1528088002
+      cowboy_icons_sheet1_54: 130166790
+      cowboy_icons_sheet1_55: -254015976
+      cowboy_icons_sheet1_56: -1303971192
+      cowboy_icons_sheet1_57: 269115699
+      cowboy_icons_sheet1_58: 2016730606
+      cowboy_icons_sheet1_59: 713669137
+      cowboy_icons_sheet1_6: 1568198372
+      cowboy_icons_sheet1_60: -1388973837
+      cowboy_icons_sheet1_61: -1555104678
+      cowboy_icons_sheet1_62: -592353410
+      cowboy_icons_sheet1_63: -221550236
+      cowboy_icons_sheet1_7: -1752021436
+      cowboy_icons_sheet1_8: -2109711226
+      cowboy_icons_sheet1_9: -1177264249
+=======
+      cowboy_icons_sheet1_0: 1011614172
+      cowboy_icons_sheet1_1: -245897691
+      cowboy_icons_sheet1_10: 302178741
+      cowboy_icons_sheet1_11: 1285083448
+      cowboy_icons_sheet1_12: -173016882
+      cowboy_icons_sheet1_13: -2091569354
+      cowboy_icons_sheet1_14: 882819885
+      cowboy_icons_sheet1_15: -855604456
+      cowboy_icons_sheet1_16: 569483982
+      cowboy_icons_sheet1_17: -1667846719
+      cowboy_icons_sheet1_18: 1727069464
+      cowboy_icons_sheet1_19: 581955306
+      cowboy_icons_sheet1_2: -444628411
+      cowboy_icons_sheet1_20: 1771105174
+      cowboy_icons_sheet1_21: 1768858456
+      cowboy_icons_sheet1_22: -937218377
+      cowboy_icons_sheet1_23: -666978330
+      cowboy_icons_sheet1_24: 1238596450
+      cowboy_icons_sheet1_25: 2096881996
+      cowboy_icons_sheet1_26: -1013285981
+      cowboy_icons_sheet1_27: -1461400341
+      cowboy_icons_sheet1_28: -1931774714
+      cowboy_icons_sheet1_29: 825797400
+      cowboy_icons_sheet1_3: 27550786
+      cowboy_icons_sheet1_30: -1563915359
+      cowboy_icons_sheet1_31: -1269864234
+      cowboy_icons_sheet1_32: -1433233412
+      cowboy_icons_sheet1_33: -2029276782
+      cowboy_icons_sheet1_34: 805541261
+      cowboy_icons_sheet1_35: 1867266019
+      cowboy_icons_sheet1_36: 1862551805
+      cowboy_icons_sheet1_37: -1026871106
+      cowboy_icons_sheet1_38: -1579732398
+      cowboy_icons_sheet1_39: -150215107
+      cowboy_icons_sheet1_4: -769277964
+      cowboy_icons_sheet1_40: -54745601
+      cowboy_icons_sheet1_41: -1711648572
+      cowboy_icons_sheet1_42: -1823531460
+      cowboy_icons_sheet1_43: -693691366
+      cowboy_icons_sheet1_44: 1321592167
+      cowboy_icons_sheet1_45: 2081813940
+      cowboy_icons_sheet1_46: 1665829611
+      cowboy_icons_sheet1_47: 66078942
+      cowboy_icons_sheet1_48: -424599503
+      cowboy_icons_sheet1_49: -811173016
+      cowboy_icons_sheet1_5: 383388830
+      cowboy_icons_sheet1_50: -631569493
+      cowboy_icons_sheet1_51: -1857024282
+      cowboy_icons_sheet1_52: 1197456201
+      cowboy_icons_sheet1_53: -1735636951
+      cowboy_icons_sheet1_54: 681100478
+      cowboy_icons_sheet1_55: 1251617356
+      cowboy_icons_sheet1_56: 1048170081
+      cowboy_icons_sheet1_57: -1096691705
+      cowboy_icons_sheet1_58: 1804201666
+      cowboy_icons_sheet1_59: 1129902747
+      cowboy_icons_sheet1_6: 1989852100
+      cowboy_icons_sheet1_60: 90516717
+      cowboy_icons_sheet1_61: -1055494789
+      cowboy_icons_sheet1_62: 1572909602
+      cowboy_icons_sheet1_63: 564870386
+      cowboy_icons_sheet1_7: 1828664
+      cowboy_icons_sheet1_8: 192711789
+      cowboy_icons_sheet1_9: -552656347
+>>>>>>> 3dcc0656f223033f819d453d2cde4a81cae89834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
